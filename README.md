@@ -2,30 +2,40 @@
 
 ## 📌 Project Overview
 
-This repository contains my complete AI & Machine Learning Essentials Capstone Project, developed as part of the capstone assessment. The project demonstrates the complete machine learning workflow, beginning with data preprocessing and exploratory analysis, followed by predictive modeling, model evaluation, hyperparameter tuning, and finally deploying an intelligent LLM-powered application with guardrails.
+This repository contains my AI & Machine Learning Essentials Capstone Project, which demonstrates an end-to-end machine learning workflow. The project covers data preprocessing, exploratory data analysis, classical machine learning, advanced ensemble models, hyperparameter tuning, and an LLM-powered application with guardrails for responsible AI.
 
-The project emphasizes industry-standard practices such as data cleaning, feature engineering, ensemble learning, cross-validation, pipeline creation, model serialization, secure API key management, and responsible AI implementation.
+The objective is to build a complete, production-ready AI solution by following industry best practices in data science and machine learning.
+
+---
+
+## 📂 Dataset
+
+**Dataset Name:** Bangalore Housing Prices
+
+**Source:** Kaggle
+
+🔗 https://www.kaggle.com/datasets/aryanfelix/bangalore-housing-prices
 
 ---
 
 ## 📂 Project Structure
 
 ### 📁 Part 1 – Data Preparation & Exploratory Data Analysis
-- Data cleaning
-- Missing value handling
-- Outlier treatment
-- Feature engineering
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
 - Exploratory Data Analysis (EDA)
-- Cleaned dataset generation
+- Data Visualization
+- Cleaned Dataset Generation
 
 ---
 
-### 📁 Part 2 – Classical Machine Learning Models
-- Regression & Classification
+### 📁 Part 2 – Machine Learning Models
 - Logistic Regression
-- Model evaluation
-- Performance metrics
-- Feature preprocessing
+- Classification Problem
+- Data Scaling
+- Model Evaluation
+- Accuracy & ROC-AUC Analysis
 
 ---
 
@@ -33,22 +43,22 @@ The project emphasizes industry-standard practices such as data cleaning, featur
 - Decision Tree
 - Random Forest
 - Gradient Boosting
-- Cross Validation
-- Hyperparameter Tuning (GridSearchCV)
-- ML Pipeline
 - Feature Importance
+- Cross Validation
+- GridSearchCV
+- Machine Learning Pipeline
 - Learning Curve Analysis
 - Model Serialization using Joblib
 
 ---
 
 ### 📁 Part 4 – LLM Application with Guardrails
-- Secure API key management using `.env`
+- Secure API Key Management
 - Prompt Engineering
-- LLM-powered prediction explanation
-- Guardrails implementation
-- Structured AI responses
-- Safe and responsible AI application
+- Guardrails Implementation
+- Structured LLM Responses
+- Responsible AI
+- Environment Variable Configuration
 
 ---
 
@@ -67,25 +77,43 @@ The project emphasizes industry-standard practices such as data cleaning, featur
 
 ---
 
-## 🎯 Project Highlights
+## 📊 Project Workflow
 
-- ✅ End-to-end Machine Learning workflow
-- ✅ Data preprocessing and feature engineering
-- ✅ Multiple ML model comparison
-- ✅ Ensemble learning techniques
-- ✅ Hyperparameter tuning
-- ✅ Cross-validation
-- ✅ Model serialization
-- ✅ LLM integration
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Hyperparameter Tuning
+8. Pipeline Creation
+9. Model Serialization
+10. LLM Integration
+11. AI Guardrails
+12. Final Deployment
+
+---
+
+## 🌟 Key Features
+
+- ✅ End-to-End Machine Learning Project
+- ✅ Data Preprocessing & Feature Engineering
+- ✅ Multiple Model Comparison
+- ✅ Ensemble Learning
+- ✅ Cross Validation
+- ✅ Hyperparameter Tuning
+- ✅ Pipeline Implementation
+- ✅ Model Serialization
+- ✅ LLM Integration
 - ✅ AI Guardrails
-- ✅ Secure environment variable management
-- ✅ Professional project documentation
+- ✅ Secure API Key Handling
+- ✅ Professional Documentation
 
 ---
 
 ## 📈 Outcome
 
-The project successfully demonstrates the complete lifecycle of an AI application—from raw data preprocessing to deploying a secure, explainable, and production-ready machine learning solution enhanced with Large Language Models.
+This project successfully demonstrates the complete lifecycle of an AI & Machine Learning application—from raw data preprocessing and predictive modeling to deploying a secure LLM-powered application with responsible AI guardrails.
 
 ---
 
